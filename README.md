@@ -39,4 +39,3 @@ ________________________________________
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
    
-   https://gyazo.com/4e4789a7b8f6560e07f8c6484ef53d18
