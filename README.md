@@ -4,6 +4,7 @@ ________________________________________
 
 1. ¿Qué es una página web? 
     <spam style="color:red">Una página web es un conjunto de información que un sitio web muestra en una pantalla, incluyendo a la totalidad de sus elementos 
+</span>
 
 2. ¿Qué es un sitio web?
 
