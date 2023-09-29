@@ -26,9 +26,12 @@ ________________________________________
 
 | Aplicaciones | Visto |
 |-----------|-----------|
-| Google Docs |![check](https://raw.githubusercontent.com/raccssoo/SMX2M8UF1A2/main/check.jpg)
-| Google Slides |![check](https://raw.githubusercontent.com/raccssoo/SMX2M8UF1A2/main/check.jpg)
-| Google Sheets |![check](https://raw.githubusercontent.com/raccssoo/SMX2M8UF1A2/main/check.jpg)
+| Google Docs |![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)
+
+| Google Slides |![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)
+
+| Google Sheets |![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)
+
 | Google Calendar |![Calendar](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/calendar.jpg)|
 | Google Meet | Fila 5, C2 |
 | ... | ... |
