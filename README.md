@@ -14,11 +14,13 @@ ________________________________________
 
 3.  ¿Qué es una aplicación web?
    
-    __Respuesta__
+    <span style="color:red">Una aplicación web es un software que se ejecuta en el navegador web
+    </span>
 
 4.  ¿Qué es una herramienta ofimática? 
    
-    __Respuesta__
+    <span style="color:red">Las herramientas ofimáticas son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
+</span>
 
 5.  [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools "Herramientas de Google")
 
@@ -31,11 +33,12 @@ ________________________________________
 
 6. ¿Qué es HTML?
 
-    HTML es el lenguaje con el que se define el contenido de las páginas web.
+    <span style="color:red">HTML es el lenguaje con el que se define el contenido de las páginas web.
+</span>
 
 7. ¿Qué es CSS? 
 
-    CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva. 
+    <span style="color:red">CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva. 
+</span>
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
-   
