@@ -26,7 +26,7 @@ ________________________________________
 
 | Aplicaciones | Visto |
 |-----------|-----------|
-| Google Docs |[!Check ] (https://raw.githubusercontent.com/raccssoo/SMX2M8UF1A2/main/check.webp?token=GHSAT0AAAAAACHULFFENJT5M4ZDUJ22NNESZIW4HIA)|
+| Google Docs |[!Check ] (https://raw.githubusercontent.com/raccssoo/SMX2M8UF1A2/main/check.webp)
 | Google Slides |!Check |
 | Google Sheets |!Check |
 | Google Calendar |![Calendar](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/calendar.jpg)|
