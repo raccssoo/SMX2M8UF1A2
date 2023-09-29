@@ -43,6 +43,23 @@ ________________________________________
     <span style="color:red">CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva. 
 </span>
 
+```
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+</body>
+</html>
+```
+
 1. Flujo de trabajo (navegador, petición, servidor y respuesta):
    
-https://github.com/raccssoo/SMX2M8UF1A2/blob/main/calendar.jpg?raw=true
