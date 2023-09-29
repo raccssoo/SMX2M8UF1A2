@@ -22,4 +22,14 @@ ________________________________________
     __Respuesta__
 
 5.  [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools "Herramientas de Google")
+   
+|Aplicaciones|Visto|
+|Google Docs|------|
+|Google Slides|----|
+|Google Sheets|----|
+|Google Calendar|--|
+|Google Meet|------|
+|...|...|
+
+
 6.  
