@@ -26,21 +26,23 @@ ________________________________________
 
 | Aplicaciones | Visto |
 |-----------|-----------|
-| Google Docs | Fila 1, C2 |
+| Google Docs !|[check ] |
 | Google Slides | Fila 2, C2 |
 | Google Sheets | Fila 3, C2 |
-| Google Calendar | Fila 4, C2 |
+| Google Calendar |[Calendar]([URL_de_la_Imagen_1](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/calendar.jpg?raw=true))|
 | Google Meet | Fila 5, C2 |
 | ... | ... |
 
-6. ¿Qué es HTML?
+1. ¿Qué es HTML?
 
     <span style="color:red">HTML es el lenguaje con el que se define el contenido de las páginas web.
 </span>
 
-7. ¿Qué es CSS? 
+1. ¿Qué es CSS? 
 
     <span style="color:red">CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva. 
 </span>
 
-8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+1. Flujo de trabajo (navegador, petición, servidor y respuesta):
+   
+https://github.com/raccssoo/SMX2M8UF1A2/blob/main/calendar.jpg?raw=true
