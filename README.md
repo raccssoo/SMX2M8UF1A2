@@ -24,12 +24,14 @@ ________________________________________
 
 5.  [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools "Herramientas de Google")
 
-|Google Docs |Visto|
-|Google Slides|:----------:|
-|Google Sheets|centrada|
-|Google Calendar|:-----:|
-|Google Meet|:-------:
-|...|...|
+| Aplicaciones | Visto |
+|-----------|-----------|
+| Google Docs | Fila 1, C2 |
+| Google Slides | Fila 2, C2 |
+| Google Sheets | Fila 3, C2 |
+| Google Calendar | Fila 4, C2 |
+| Google Meet | Fila 5, C2 |
+| ... | ... |
 
 6. ¿Qué es HTML?
 
