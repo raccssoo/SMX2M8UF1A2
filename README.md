@@ -19,5 +19,5 @@ ________________________________________
 5. 
     __Respuesta__
 
-6.  [link](https://www.google.com/intl/es-419/chrome/browser-tools "Herramientas de Google")
+6.  [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools "Herramientas de Google")
 7.  
