@@ -30,7 +30,7 @@ ________________________________________
 | Google Slides  | ![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)                |
 | Google Sheets  | ![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)                |
 | Google Calendar| ![Calendar](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/calendar.jpg)          |
-| Google Meet    | Fila 5, C2                                                                           |
+| Google Meet    | ![pc](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/pc.jpg?raw=true "pc")                                                                           |
 | ...            | ...                                                                                   |
 
 
@@ -65,4 +65,4 @@ ________________________________________
 
 7. Flujo de trabajo (navegador, petición, servidor y respuesta):
    
-![pc](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/pc.jpg?raw=true "pc")
+![html](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/image_2023-10-05_151757334.png?raw=true "html")
