@@ -24,24 +24,23 @@ ________________________________________
 
 5.  [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools "Herramientas de Google")
 
-| Aplicaciones | Visto |
-|-----------|-----------|
-| Google Docs |![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)|
+| Aplicaciones   | Visto                                                                                 |
+| -------------- | --------------------------------------------------------------------------------------- |
+| Google Docs    | ![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)                |
+| Google Slides  | ![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)                |
+| Google Sheets  | ![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)                |
+| Google Calendar| ![Calendar](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/calendar.jpg)          |
+| Google Meet    | Fila 5, C2                                                                           |
+| ...            | ...                                                                                   |
 
-| Google Slides |![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)|
 
-| Google Sheets |![check](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/check.jpg)|
 
-| Google Calendar |![Calendar](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/calendar.jpg)|
-| Google Meet | Fila 5, C2 |
-| ... | ... |
-
-1. ¿Qué es HTML?
+6. ¿Qué es HTML?
 
     <span style="color:red">HTML es el lenguaje con el que se define el contenido de las páginas web.
 </span>
 
-1. ¿Qué es CSS? 
+7. ¿Qué es CSS? 
 
     <span style="color:red">CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva. 
 </span>
@@ -64,5 +63,6 @@ ________________________________________
 </html>
 ```
 
-1. Flujo de trabajo (navegador, petición, servidor y respuesta):
+7. Flujo de trabajo (navegador, petición, servidor y respuesta):
    
+![pc](https://github.com/raccssoo/SMX2M8UF1A2/blob/main/pc.jpg?raw=true "pc")
